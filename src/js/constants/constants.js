@@ -1,4 +1,4 @@
-export const MIN_COST = 1000;
+export const PRICE_UNIT = 1000;
 export const MIN_LOTTO_NUM = 1;
 export const MAX_LOTTO_NUM = 45;
 export const ERROR_MESSAGES = {
