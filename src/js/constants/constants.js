@@ -5,7 +5,8 @@ export const ERROR_MESSAGES = {
   REQUIRED_MIN_AMOUNT: "1000원 이상 입력해 주세요!",
   UNIT_ERROR: "1000원 단위로 입력해 주세요!",
 };
-export const CLASSNAME = {
+export const SELECTORS = {
+  APP_ID: "#app",
   PRICE_FORM: ".price-form",
   PRICE_FORM_INPUT: ".price-form__input",
   LOTTO_SECTION: ".lotto-section",
